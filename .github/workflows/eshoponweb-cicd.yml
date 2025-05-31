@@ -8,8 +8,8 @@ env:
   RESOURCE-GROUP: rg-eshoponweb
   LOCATION: northcentralus
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: 746230a7-d3b4-4512-9d57-de741db64a24
-  WEBAPP-NAME: eshoponweb-webapp51818121
+  SUBSCRIPTION-ID: 8f76a342-c714-4a56-b132-6246f4e37913
+  WEBAPP-NAME: eshoponweb-webapp51819554
 
 
 jobs:
